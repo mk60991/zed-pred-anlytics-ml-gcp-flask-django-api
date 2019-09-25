@@ -1,0 +1,70 @@
+api format
+
+1.  customer visits
+daywise
+
+[
+	{"day":29,"month":4, "year":2019},
+	{"day":28,"month":4, "year":2019},
+	{"day":27,"month":4, "year":2019},
+        {"day":25,"month":4, "year":2019}
+    
+
+]
+
+monthwise
+[
+	{"month":4, "year":2019},
+	{"month":4, "year":2019},
+	{"month":4, "year":2019},
+        {"month":4, "year":2019}
+    
+]
+
+weekwise
+[
+	{"week":1, "year":2019},
+	{"week":2, "year":2019},
+	{"week":3, "year":2019},
+        {"week":4, "year":2019}
+    
+
+]
+2. 
+
+total sales
+
+monthwise
+
+[
+	{"month":1, "year":2019},
+	{"month":2, "year":2019},
+	{"month":3, "year":2019},
+        {"month":4, "year":2019}
+    
+
+]
+
+
+daywise
+
+[
+	{"day":29,"month":4, "year":2019},
+	{"day":28,"month":4, "year":2019},
+	{"day":27,"month":4, "year":2019},
+        {"day":25,"month":4, "year":2019}
+    
+
+]
+
+
+
+weekwise
+[
+	{"week":1, "year":2019},
+	{"week":2, "year":2019},
+	{"week":3, "year":2019},
+        {"week":4, "year":2019}
+    
+
+]
